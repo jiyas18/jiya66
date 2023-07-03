@@ -1,0 +1,4 @@
+print("How are you?")
+a=5
+b=6
+print("The sum of two num is:",a+b)
